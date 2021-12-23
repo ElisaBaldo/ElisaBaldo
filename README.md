@@ -7,9 +7,9 @@ I am a **Business Analytics** Master graduate (class of 2021), currently pursuin
 I am always looking for new opportunities to learn and develop myself.
 
 I'm currently: 
-- 🔭 looking to **apply data science to Finance**
-- 🌱 **developing** my analytics skills with Python
-- 👯 willing to **collaborate** on projects within Finance
+- 🔭 **Applying data science to Finance**
+- 🌱 **Developing** my analytics skills with Python
+- 👯 Willing to **collaborate** on projects within Finance
 - 🏢 I'm **looking for a position** as a Financial Analyst
 
 - 💬 Driving quote: "There are never problems, there are only opportunities"
