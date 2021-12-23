@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I am Elisa!
 
-<!--
-**ElisaBaldo/ElisaBaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analyst 📈 Business Acumen 🏢 Finance Passionate 🏦 Data Driven Decisions 📊 
 
-Here are some ideas to get you started:
+I am a **Business Analytics** Master graduate (class of 2021), currently pursuing a **Finance** Master Degree. I have a **Business Management** background and a passion for Finance, especially Corporate Finance and Capital Markets. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am always looking for new opportunities to **learn and develop myself**.
+
+I'm currently: 
+- 🔭 looking to **apply data science to Finance**
+- 🌱 developing my analytics skills with Python
+- 👯 willing to collaborate on projects within Finance
+- 🏢 I'm **Looking for a position** as a Financial Analyst
+
+- 💬 Driving quote: "**There are never problems, there are only opportunities**"
+- 📫 How to reach me: baldoelisa3@gmail.com
+- ⚡ Fun fact: I love learning languages and dancing 💃 
+
