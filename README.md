@@ -7,13 +7,12 @@ I am a **Business Analytics** Master graduate (class of 2021), currently pursuin
 I am always looking for new opportunities to learn and develop myself.
 
 Experience with:
-- Python
-- R
-- SQL
+- 🌱 Python
+- 🌱 R
+- 🌱 SQL
 
 I'm currently: 
 - 🔭 **Applying data science to Finance**
-- 🌱 **Developing** my analytics skills with Python
 - 👯 Willing to **collaborate** on projects within Finance
 - 🏢 I'm **looking for a position** as a Financial Analyst
 
